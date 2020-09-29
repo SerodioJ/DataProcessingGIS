@@ -1,0 +1,51 @@
+ZONAS;;;MACROZONAS/ COMPATIBILIZAÇÃO COM AS ZONAS;
+Número;DISTRITOS DO MUNICÍPIO;Números das zonas;Número da Macrozona;Nome da Macrozona 
+1;Sé;1;1;CENTRO
+2;República;2;;
+3;Bom Retiro/Brás;3;;
+4;Cambucí;4;;
+5;Liberdade;5;;
+6;Consolação/Bela Vista/ Jd. Paulista;6;;
+7;Perdizes;8;;
+8;Santa Cecília/ Barra Funda;7;2;OESTE
+9;Pari/Belém;13;;
+10;Móoca;14;;
+11;Ipiranga;15;;
+12;Vila Mariana;26;;
+13;Pinheiros;36;;
+14;Alto de Pinheiros;37;;
+15;Lapa;11;3;SUDESTE
+16;Limão/ Freg. Do Ó;12;;
+17;Santana/ Casa Verde;22;;
+18;V. Guilherme/ V. Medeiros/ V. Maria;23;;
+19;São Mateus/ Aricanduva;24;;
+20;Carrão/ Tatuapé;25;;
+21;Sapopemba/ São Lucas/ Água Rasa/ V. Formosa/ V. Prudente;34;;
+22;Cursino/Sacomã;35;;
+23;Saúde;43;4;SUDOESTE
+24;Moema;44;;
+25;Itaim Bibi;45;;
+26;Vila Leopoldina;46;;
+27;São Domingos/ Jaguara;47;;
+28;Pirituba/ Jaraguá;48;;
+29;Mandaqui/Brasilândia/ Cachoeirinha;49;5;SUL
+30;Jaçanã/ Tucuruví;27;6;NOROESTE
+31;Ermelini Matarazzo/ Cangaíba;28;;
+32;Penha/ Ponte Rasa;38;;
+33;Artur Alvim/ Cidade Lider/ V. Matilde;16;7;NORTE
+34;Jabaquara;17;;
+35;Campo Belo;29;;
+36;Butantã/ Morumbí/ Vila Sônia;18;8;NORDESTE
+37;Jaguaré/ Raposo Tavares/ Rio Pequeno;30;;
+38;Anhanguera/ Perus;39;;
+39;Tremembé;9;9;Leste 1
+40;Vila Jacuí/ V. Curuça/ São Miguel/ Jd. Helena/ Itaim Paulista/ Itaquera/ Lageado/ Guaianases;10;;
+41;José Bonifácio/ Pq. Do Carmo;19;;
+42;Cidade Tiradentes/ Iguatemí/ São Rafael;20;;
+43;Santo Amaro;21;;
+44;Campo Grande;31;10;LESTE 2
+45;Campo Límpo/ Capão Redondo/ Jd. Angela;32;;
+46;Cidade Ademar/ Cidade Dutra/ Pedreira/ Socorro;33;;
+47;V. Andrade/Jd. São Luiz;40;11;LESTE 3
+48;Pedreira/ Cidade Ademar;41;;
+49;Grajaú/ Marsilac/ Parelheiros;42;;

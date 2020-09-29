@@ -1,0 +1,9 @@
+{
+    "edgeHead": 20,
+    "edgeTail": 4,
+    "transporte": {
+        "2.0": {
+            "6.0": 18.0
+        }
+    }
+}

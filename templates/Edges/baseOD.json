@@ -1,0 +1,33 @@
+{
+    "file_name_connector": "to",
+    "edgeHead": "ZONA_INST",
+    "headType": "int",
+    "edgeTail": "ZONA_MOV",
+    "tailType": "int",
+    "inversorTag": ["TIPO_MOV"],
+    "inversorValues": [["Expedição"]],
+    "structure":
+    {
+        "1":{
+            "name": "transporte",
+            "tag": "",
+            "filter": [],
+            "contentType": "JSON",
+            "content":{
+                "name": "UNIQUE_GENERATED",
+                "tag": "CATEGORIA_PRODUTO_MOV",
+                "filter": [],
+                "contentType": "JSON",
+                "content":{
+                    "name": "UNIQUE_GENERATED",
+                    "tag": "UNIDADE_MOV",
+                    "filter": [],
+                    "contentType": "float",
+                    "content": {
+                        "tag": "PESO_VOLUME_MOV"
+                    }
+                }
+            }
+        }  
+    }
+}

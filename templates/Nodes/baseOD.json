@@ -1,0 +1,50 @@
+{
+    "file_name": "nodeID",
+    "nodeID": ["ZONA_INST", "ZONA_MOV"],
+    "IDType":"int",
+    "structure":
+    {
+        "1":{
+            "name": "in",
+            "tag": "TIPO_MOV",
+            "filter": ["Recebimento", "Expedição"],
+            "contentType": "JSON",
+            "content":{
+                "name": "UNIQUE_GENERATED",
+                "tag": "CATEGORIA_PRODUTO_MOV",
+                "filter": [],
+                "contentType": "JSON",
+                "content":{
+                    "name": "UNIQUE_GENERATED",
+                    "tag": "UNIDADE_MOV",
+                    "filter": [],
+                    "contentType": "float",
+                    "content": {
+                        "tag": "PESO_VOLUME_MOV"
+                    }
+                }
+            }
+        },
+        "2":{
+            "name": "out",
+            "tag": "TIPO_MOV",
+            "filter": ["Expedição", "Recebimento"],
+            "contentType": "JSON",
+            "content":{
+                "name": "UNIQUE_GENERATED",
+                "tag": "CATEGORIA_PRODUTO_MOV",
+                "filter": [],
+                "contentType": "JSON",
+                "content":{
+                    "name": "UNIQUE_GENERATED",
+                    "tag": "UNIDADE_MOV",
+                    "filter": [],
+                    "contentType": "float",
+                    "content": {
+                        "tag": "PESO_VOLUME_MOV"
+                    }
+                }
+            }
+        }
+    }
+}
