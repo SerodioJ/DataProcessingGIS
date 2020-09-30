@@ -27,4 +27,4 @@ All the most external keys in the template (e.g. [node](templates/Nodes/baseOD.j
 In the [Export Notebook](Export.ipynb), is where you can set the path to files and folders that will be used in the export part. The last cell depends on what you are looking for so it will need to be coded according to your preferences. [Example of an output from this notebook](out/baseOD/agrico.csv)
 
 ### Spatial data
-You can create a JSON to use as a node dictionary (e.g. [zoning](data/baseOD/zoning.json)) and use the function `generate_JSON` to get a JSON with lat/long information (e.g. [spatial](data/baseOD/spatial.json)) 
+You can create a JSON to use as a node dictionary (e.g. [zoning](data/baseOD/zoning.json)) and use the function `generate_JSON` to get a JSON with lat/long information (e.g. [spatial](data/baseOD/spatial.json)). For that you will also need to create a file with a Google Maps API key in the format `{"key" : YOU_API_KEY}` and put its path in the notebook cell that requires it.
