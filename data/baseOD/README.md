@@ -1,0 +1,2 @@
+# CET-SP Origin-Destination Survey Data
+This [OD data](base-od-cargas-08022017-1-.csv) and other CSV files are from a Origin-Destination Survey performed by Companhia de Engenharia de Tráfego from the city of São Paulo-SP (CET-SP) in 2019. More information can be found in the following [link](http://www.cetsp.com.br/consultas/pesquisa-origem-e-destino-de-cargas/a-pesquisa.aspx).
